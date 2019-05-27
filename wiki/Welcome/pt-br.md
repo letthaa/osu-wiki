@@ -17,16 +17,21 @@ Bem-vindo ao osu!, um jogo de ritmo free-to-win desenvolvido pelo peppy com quat
   - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)
   - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
 - [Multi](/wiki/Multi/#getting-started)
+- [Critério de Ranking](/wiki/Ranking_Criteria)
+  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
+  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
+  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 ## Beatmapping
 
-*Veja também: [Beatmapping](/wiki/Beatmapping/#getting-started).*
+*Página principal: [Beatmapping](/wiki/Beatmapping/#getting-started).*
 
 Beatmapping refere-se ao processo de criação de um beatmap. Este processo inclui: selecionar a música, definir um timing (para as notas), mapear o beatmap e testar o beatmap. Também pode incluir: adicionar um vídeo; adicionar um [storyboard](/wiki/storyboarding/#getting-started) e/ou [custom skin](/wiki/skinning/#getting-started). Todos esses passos podem ser feitos pelo criador sozinho ou com a ajuda de outros usuários, algumas vezes sendo chamados de *storyboarders*, *skinners* e/ou *criadores convidados*, dependendo de qual seja a tarefa deles.
 
 ## Modding
 
-*Veja também: [Modding](/wiki/Modding/#getting-started).*
+*Página principal: [Modding](/wiki/Modding/#getting-started).*
 
 Modding é o processo no qual os usuários da comunidade revisam (ou, como é apelidado, "moddam") um beatmap no estágio de *Pendente* ou *Trabalho em Progresso/Precisando de Ajuda*. Modding é crucial para o controle de qualidade porque permite que os criadores identifiquem e consertem os problemas presentes nos seus beatmaps.
 
